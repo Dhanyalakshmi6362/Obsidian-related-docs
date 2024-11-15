@@ -136,7 +136,11 @@ For our example of displaying title listings to the user, three containers are i
 	class WA,MA container
 
 ```mermaid
-	flowchart TD
+---
+title: Flowchart
+---
+
+flowchart TD
 		User["Premium Member
 		[Person]
 		A user of the website who has
