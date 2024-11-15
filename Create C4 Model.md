@@ -136,9 +136,6 @@ For our example of displaying title listings to the user, three containers are i
 	class WA,MA container
 
 ```mermaid
-	---
-	title: "Listing Service C4 Model: System Context"
-	---
 	flowchart TD
 		User["Premium Member
 		[Person]
